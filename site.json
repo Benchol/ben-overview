@@ -1,0 +1,10 @@
+{
+  "description": "Create a professional portfolio with elegant animations and 3D effects, showcasing skills and experience impressively for job seekers and creatives.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
